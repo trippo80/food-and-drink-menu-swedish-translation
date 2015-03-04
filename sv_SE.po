@@ -1,0 +1,479 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: Food and Drink Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Fri Jul 18 2014 10:25:06 GMT+0100 (GMT Daylight Time)\n"
+"POT-Revision-Date: Fri Jul 18 2014 10:25:13 GMT+0100 (GMT Daylight Time)\n"
+"PO-Revision-Date: 2015-03-04 10:47+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language: sv_SE\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cpts.php:49
+msgid "Menus"
+msgstr "Menyer"
+
+#: ../cpts.php:50 ../widgets/WidgetMenu.class.php:72
+msgid "Menu"
+msgstr "Meny"
+
+#: ../cpts.php:51
+msgid "Add Menu"
+msgstr "Lägg till meny"
+
+#: ../cpts.php:52
+msgid "Add New Menu"
+msgstr "Lägg till ny meny"
+
+#: ../cpts.php:53 ../cpts.php:127
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../cpts.php:54
+msgid "Edit Menu"
+msgstr "Redigera meny"
+
+#: ../cpts.php:55
+msgid "New Menu"
+msgstr "Ny meny"
+
+#: ../cpts.php:56 ../cpts.php:130
+msgid "View"
+msgstr "Visa"
+
+#: ../cpts.php:57
+msgid "View Menu"
+msgstr "Visa menyn"
+
+#: ../cpts.php:58
+msgid "Search Menus"
+msgstr "Sök menyer"
+
+#: ../cpts.php:59
+msgid "No Menu found"
+msgstr "Inga menyer hittades"
+
+#: ../cpts.php:60
+msgid "No Menu found in Trash"
+msgstr "Inga menyer hittades i papperskorgen"
+
+#: ../cpts.php:61
+msgid "Parent Menu"
+msgstr "Föräldermeny"
+
+#: ../cpts.php:93 ../cpts.php:319 ../cpts.php:340
+msgid "Menu Sections"
+msgstr "Menysektioner"
+
+#: ../cpts.php:94 ../cpts.php:97 ../cpts.php:102
+msgid "Menu Section"
+msgstr "Menysektion"
+
+#: ../cpts.php:95
+msgid "Search Menu Sections"
+msgstr "Sök menysektioner"
+
+#: ../cpts.php:96
+msgid "All Menu Sections"
+msgstr "Alla menysektioner"
+
+#: ../cpts.php:98
+msgid "Menu Section:"
+msgstr "Menysektion:"
+
+#: ../cpts.php:99
+msgid "Edit Menu Section"
+msgstr "Redigera menysektion"
+
+#: ../cpts.php:100
+msgid "Update Menu Section"
+msgstr "Uppdatera menysektion"
+
+#: ../cpts.php:101
+msgid "Add New Menu Section"
+msgstr "Lägg till menysektion"
+
+#: ../cpts.php:123
+msgid "Menu Items"
+msgstr "Menyalternativ"
+
+#: ../cpts.php:124 ../widgets/WidgetMenuItem.class.php:69
+msgid "Menu Item"
+msgstr "Menyalternativ"
+
+#: ../cpts.php:125
+msgid "Add Menu Item"
+msgstr "Lägg till menyalternativ"
+
+#: ../cpts.php:126
+msgid "Add New Menu Item"
+msgstr "Lägg till nytt menyalternativ"
+
+#: ../cpts.php:128
+msgid "Edit Menu Item"
+msgstr "Redigera menyalternativ"
+
+#: ../cpts.php:129
+msgid "New Menu Item"
+msgstr "Nytt menyalternativ"
+
+#: ../cpts.php:131
+msgid "View Menu Item"
+msgstr "Visa menyalternativ"
+
+#: ../cpts.php:132
+msgid "Search Menu Items"
+msgstr "Sök menyalternativ"
+
+#: ../cpts.php:133
+msgid "No Menu Item found"
+msgstr "Inga menyalternativ hittades"
+
+#: ../cpts.php:134
+msgid "No Menu Item found in Trash"
+msgstr "Inga menyalternativ hittades i papperskorgen"
+
+#: ../cpts.php:135
+msgid "Parent Menu Item"
+msgstr "Föräldermenyalternativ"
+
+#: ../cpts.php:175
+msgid "Menu Footer"
+msgstr "Sidor för meny"
+
+#: ../cpts.php:185
+msgid "Menu Layout"
+msgstr "Layout för meny"
+
+#: ../cpts.php:195
+msgid "Menu Shortcode"
+msgstr "Shortcode för meny"
+
+#: ../cpts.php:205
+msgid "Menu Item Shortcode"
+msgstr "Shortcode för menyalternativ"
+
+#: ../cpts.php:219 ../cpts.php:261 ../cpts.php:505 ../settings.php:95
+msgid "Price"
+msgstr "Pris"
+
+#: ../cpts.php:313
+msgid "Click on a Menu Section to add it to this menu."
+msgstr "Klicka på en menysektion för att lägga till den till denna menyn."
+
+#: ../cpts.php:325
+msgid "First Column"
+msgstr "Första kolumnen"
+
+#: ../cpts.php:334
+msgid "Second Column"
+msgstr "Andra kolumnen"
+
+#: ../cpts.php:351
+msgid ""
+"Hint: Leave the second column empty to display the menu in a single column."
+msgstr "Tips: Lämna andra kolumnen tom för att visa menyn i enbart en kolumn."
+
+#: ../cpts.php:375
+msgid ""
+"Once this menu is published, look here to find the shortcode you will use to "
+"display this menu in any post or page."
+msgstr ""
+"När menyn är publicerad kan du här hitta den shortcode du behöver för att "
+"visa menyn i ett inlägg eller på en sida."
+
+#: ../cpts.php:384 ../cpts.php:424
+msgid ""
+"Copy and paste the snippet below into any post or page in order to display "
+"this menu."
+msgstr ""
+"Markera och kopiera kodavsnittet nedan för att sedan klistra in i ett inlägg "
+"eller på en sida för att visa menyn."
+
+#: ../cpts.php:415
+msgid ""
+"Once this menu is published, look here to find the shortcode you will use to "
+"display this menu item in any post or page."
+msgstr ""
+"När menyn är publicerad kan du här hitta den shortcode du behöver för att "
+"visa detta menyalternativ i ett inlägg eller på en sida."
+
+#: ../cpts.php:504 ../cpts.php:641 ../widgets/WidgetMenu.class.php:68 ..
+#: /widgets/WidgetMenuItem.class.php:65
+msgid "Title"
+msgstr "Titel"
+
+#: ../cpts.php:506 ../cpts.php:642
+msgid "Sections"
+msgstr "Sektioner"
+
+#: ../cpts.php:507 ../cpts.php:643
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../cpts.php:508 ../cpts.php:644 ../lib/simple-admin-
+#: pages/classes/AdminPageSetting.Scheduler.class.php:365
+msgid "Date"
+msgstr "Datum"
+
+#: ../cpts.php:558
+msgid ", "
+msgstr ","
+
+#: ../cpts.php:583
+msgid "All sections"
+msgstr "Alla sektioner"
+
+#: ../cpts.php:589
+msgid "Unassigned items"
+msgstr "Menyalternativ utan meny"
+
+#: ../food-and-drink-menu.php:102
+msgid "Base formatting only"
+msgstr "Grundformattering endast"
+
+#: ../food-and-drink-menu.php:111
+msgid "Classic style"
+msgstr "Klassisk stil"
+
+#: ../food-and-drink-menu.php:121
+msgid "Don't load any CSS styles"
+msgstr "Ladda inte några stilmallar"
+
+#: ../food-and-drink-menu.php:235
+msgid "View the help documentation for Food and Drink Menu"
+msgstr "Visa hjälpdokumentationen för Food and Drink Menu"
+
+#: ../food-and-drink-menu.php:235
+msgid "Help"
+msgstr "Hjälp"
+
+#: ../food-and-drink-menu.php:238
+msgid "Upgrade to Food and Drink Pro"
+msgstr "Uppgradera till Food and Drink Pro"
+
+#: ../food-and-drink-menu.php:238
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: ../settings.php:45 ../settings.php:46
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../settings.php:58 ../settings.php:73
+msgid "Style"
+msgstr "Stil"
+
+#: ../settings.php:59
+msgid "Choose what style you would like to use for your menu."
+msgstr "Välj vilken stil du vill använda för din meny."
+
+#: ../settings.php:74
+msgid "Choose the styling for your menus."
+msgstr "Välj stil för dina menyer."
+
+#: ../settings.php:85
+msgid "Disable Features"
+msgstr "Inaktivare funktioner"
+
+#: ../settings.php:86
+msgid ""
+"Choose what features of the menu items you wish to disable and hide from the "
+"admin interface."
+msgstr ""
+"Välj vilka funktioner för menyalternativ du vill inaktivare och gömma från "
+"administrationsgränssnittet."
+
+#: ../settings.php:96
+msgid "Disable all pricing options for menu items."
+msgstr "Inaktivare alla prisalternativ för menyalternativ."
+
+#: ../settings.php:105
+msgid "Advanced Options"
+msgstr "Avancerade inställningar"
+
+#: ../settings.php:114
+msgid "Menu Item Photo Width"
+msgstr "Bildbredd för menyalternativ"
+
+#: ../settings.php:115
+msgid ""
+"The width in pixels of menu item thumbnails automatically generated by "
+"WordPress. Leave this field empty to preserve the default (600)."
+msgstr ""
+"Bredd i pixlar för de tumnaglar som automatiskt skapas av WordPress. Lämna "
+"detta fält för att använda standardvärde (600)."
+
+#: ../settings.php:124
+msgid "Menu Item Photo Height"
+msgstr "Bildhöjd för menyalternativ"
+
+#: ../settings.php:125
+msgid ""
+"The height in pixels of menu item thumbnails automatically generated by "
+"WordPress. Leave this field empty to preserve the default (600)."
+msgstr ""
+"Höjd i pixlar för de tumnaglar som automatiskt skapas av WordPress. Lämna "
+"detta fält för att använda standardvärde (600)."
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:266
+msgid "Add new scheduling rule"
+msgstr "Lägg till ny schemaläggningsregel"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:293
+#: .. /lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:306
+msgctxt "Format of a scheduling rule"
+msgid "Weekly"
+msgstr "Veckovis"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:295
+#: .. /lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:314
+msgctxt "Format of a scheduling rule"
+msgid "Monthly"
+msgstr "Månadsvis"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:297
+#: .. /lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:322
+msgctxt "Format of a scheduling rule"
+msgid "Date"
+msgstr "Datum"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:333
+msgctxt "Label for selecting days of the week in a scheduling rule"
+msgid "Days of the week"
+msgstr "Veckodagar"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:349
+msgctxt "Label for selecting weeks of the month in a scheduling rule"
+msgid "Weeks of the month"
+msgstr "Veckor i månaden"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:380
+msgctxt "Label to select time slot for a scheduling rule"
+msgid "Time"
+msgstr "Tid"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:385
+msgctxt "Label to set a scheduling rule to last all day"
+msgid "All day"
+msgstr "Hela dagen"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:394
+msgctxt "Label for the starting time of a scheduling rule"
+msgid "Start"
+msgstr "Start"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:402
+msgctxt "Label for the ending time of a scheduling rule"
+msgid "End"
+msgstr "Slut"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:411
+msgctxt ""
+"Prompt displayed when a scheduling rule is set without any time restrictions."
+msgid ""
+"All day long. Want to <a href=\"#\" data-format=\"time-slot\">set a time "
+"slot</a>?"
+msgstr ""
+"Hela dagen. Vill du <a href=\"#\" data-format=\"time-slot\">ställa in en "
+"tidslucka</a>? "
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:430
+#: .. /lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:433
+msgid "Open and close this rule"
+msgstr "Öppna och stäng denna regel"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:436
+msgid "Delete rule"
+msgstr "Radera regel"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:439
+msgid "Delete scheduling rule"
+msgstr "Radera schemaläggningsregel"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:523
+msgctxt ""
+"Brief default description of a scheduling rule when no weekdays or weeks are "
+"included in the rule."
+msgid "Never"
+msgstr "Aldrig"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:524
+msgctxt ""
+"Brief default description of a scheduling rule when all the weekdays/weeks "
+"are included in the rule."
+msgid "Every day"
+msgstr "Varje dag"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:525
+msgctxt ""
+"Brief default description of a scheduling rule when some weekdays are "
+"included on only some weeks of the month. The {days} and {weeks} bits should "
+"be left alone and will be replaced by a comma-separated list of days (the "
+"first one) and weeks (the second one) in the following format: M, T, W on "
+"the first, second week of the month"
+msgid "{days} on the {weeks} week of the month"
+msgstr "{days} i {weeks} veckan av månaden"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:526
+msgctxt ""
+"Brief description of a scheduling rule when some weeks of the month are "
+"included but all or no weekdays are selected.  {weeks}  should be left alone "
+"and will be replaced by a comma-separated list of weeks (the second one) in "
+"the following format: First, second week of the month"
+msgid "{weeks} week of the month"
+msgstr "{weeks} veckan i månaden"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:527
+msgctxt "Brief default description of a scheduling rule when no times are set"
+msgid "All day"
+msgstr "Hela dagen"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:528
+msgctxt ""
+"Brief default description of a scheduling rule when an end time is set but "
+"no start time. If the end time is 6pm, it will read: Ends at 6pm."
+msgid "Ends at"
+msgstr "Slutar vid"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:529
+msgctxt ""
+"Brief default description of a scheduling rule when a start time is set but "
+"no end time. If the start time is 6pm, it will read: Starts at 6pm."
+msgid "Starts at"
+msgstr "Börjar vid"
+
+#: ../lib/simple-admin-pages/classes/AdminPageSetting.Scheduler.class.php:530
+msgctxt "Default separator between times of a scheduling rule."
+msgid "&mdash;"
+msgstr "&mdash;"
+
+#: ../widgets/WidgetMenu.class.php:19
+msgid "Food and Drink Menu"
+msgstr "Food and Drink Menu"
+
+#: ../widgets/WidgetMenu.class.php:20
+msgid "Display your food and drink menu."
+msgstr "Visa din Food and Drink Menu."
+
+#: ../widgets/WidgetMenuItem.class.php:19
+msgid "Food and Drink Menu Item"
+msgstr "Food and Drink Menu alternativ"
+
+#: ../widgets/WidgetMenuItem.class.php:20
+msgid "Display a single item from your food and drink menu."
+msgstr "Visa ett enstaka menyalternativ från din Food and Drink Menu."
