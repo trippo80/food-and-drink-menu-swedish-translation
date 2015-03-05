@@ -5,7 +5,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: Fri Jul 18 2014 10:25:06 GMT+0100 (GMT Daylight Time)\n"
 "POT-Revision-Date: Fri Jul 18 2014 10:25:13 GMT+0100 (GMT Daylight Time)\n"
-"PO-Revision-Date: 2015-03-04 10:47+0100\n"
+"PO-Revision-Date: 2015-03-05 08:53+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -153,19 +153,19 @@ msgstr "Föräldermenyalternativ"
 
 #: ../cpts.php:175
 msgid "Menu Footer"
-msgstr "Sidor för meny"
+msgstr "Sidfot för menyn"
 
 #: ../cpts.php:185
 msgid "Menu Layout"
-msgstr "Layout för meny"
+msgstr "Layout för menyn"
 
 #: ../cpts.php:195
 msgid "Menu Shortcode"
-msgstr "Shortcode för meny"
+msgstr "Shortcode för menyn"
 
 #: ../cpts.php:205
 msgid "Menu Item Shortcode"
-msgstr "Shortcode för menyalternativ"
+msgstr "Shortcode för menyalternativet"
 
 #: ../cpts.php:219 ../cpts.php:261 ../cpts.php:505 ../settings.php:95
 msgid "Price"
